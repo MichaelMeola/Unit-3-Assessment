@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Gandalf",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXnNmIsz7RSLJIqBatdRosuERkyzKy0e-Kg&usqp=CAU",
+        "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Gandalf600ppx.jpg/170px-Gandalf600ppx.jpg",
         "age": 24000,
         "catchphrase": "YOU SHALL NOT PASS",
         "votes":0
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "The Joker",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrNOB8XuhOZRYsR9ed2T9StxnUSlXSawSssQ&usqp=CAU",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5SCzuilq2UTmKA0ujFP2ooC9BtvcPOrnQIP2epUMCvg&s",
         "age": 30,
         "catchphrase":"Why so serious?",
         "votes": 0
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Hermione Granger",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXD1BCrfd5zPPHRnv3NjQ0whUwxubKGfqzA&usqp=CAU",
+        "picture": "https://i.pinimg.com/564x/07/7d/2c/077d2cde6b1c6433aac72ae1b63a987e.jpg",
         "age":18,
         "catchphrase":"It's 'levi-O-sa' not 'levios-A!'",
         "votes": 0
